@@ -1,12 +1,11 @@
 import React from 'react';
 
-const FullName = () => {
+const FullName = (props) => {
 
     
     return(
         <div className='fullName'>
-            <label className='fname'>Youcef     </label>
-            <label className='lname'>  Ouhab</label>
+            <label className='fname'>{props.name}</label>
         </div>
     );
     
