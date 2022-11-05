@@ -1,0 +1,42 @@
+.body
+{
+  background-color: beige  !important;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+.fullName
+{
+background-color:lightblue;
+margin-left:700px ;
+margin-right:700px;
+margin-top: 20px;
+padding:5px;
+font-size: 44px;
+border-radius: 15px;
+font-family:'Times New Roman', Times, serif;
+}
+
+.photoClass
+{
+margin-top:120px;
+}
+
+.image1
+{
+  border-radius: 15px;
+}
+.addresse
+{
+  background-color: lightblue;
+  margin-left:800px ;
+  margin-right:800px;
+  padding:5px;
+  font-size: 30px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
